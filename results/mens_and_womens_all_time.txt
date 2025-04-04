@@ -1,0 +1,488 @@
+Women's: 
+1. Team  Stanford: Score 16689.5, NCAA apperances 40, Average ranking 2.8
+2. Team  Texas: Score 12395.0, NCAA apperances 39, Average ranking 5.7
+3. Team  Georgia: Score 10665.5, NCAA apperances 39, Average ranking 6.7
+4. Team  Florida: Score 10263.0, NCAA apperances 39, Average ranking 8.1
+5. Team  California: Score 10193.5, NCAA apperances 39, Average ranking 6.5
+6. Team  Arizona: Score 8727.5, NCAA apperances 40, Average ranking 10.0
+7. Team  Southern California: Score 7452.0, NCAA apperances 39, Average ranking 9.1
+8. Team  Auburn: Score 7451.5, NCAA apperances 37, Average ranking 11.8
+9. Team  Michigan: Score 5293.5, NCAA apperances 39, Average ranking 13.8
+10. Team  SMU: Score 4757.5, NCAA apperances 33, Average ranking 14.2
+11. Team  Texas A&M: Score 4179.5, NCAA apperances 35, Average ranking 18.3
+12. Team  Tennessee: Score 4160.0, NCAA apperances 39, Average ranking 14.9
+13. Team  Virginia: Score 4113.5, NCAA apperances 39, Average ranking 16.8
+14. Team  UCLA: Score 3735.0, NCAA apperances 39, Average ranking 16.1
+15. Team  Indiana: Score 2963.0, NCAA apperances 36, Average ranking 18.2
+16. Team  North Carolina: Score 2723.0, NCAA apperances 36, Average ranking 18.6
+17. Team  Arizona St: Score 2640.5, NCAA apperances 38, Average ranking 18.4
+18. Team  Minnesota: Score 2637.5, NCAA apperances 36, Average ranking 19.2
+19. Team  Alabama: Score 2490.5, NCAA apperances 36, Average ranking 21.9
+20. Team  Wisconsin: Score 2380.5, NCAA apperances 30, Average ranking 17.6
+21. Team  Ohio St: Score 2005.5, NCAA apperances 35, Average ranking 20.9
+22. Team  Northwestern: Score 1736.5, NCAA apperances 27, Average ranking 21.2
+23. Team  NC State: Score 1610.5, NCAA apperances 18, Average ranking 20.9
+24. Team  Miami (FL): Score 1549.5, NCAA apperances 34, Average ranking 22.6
+25. Team  Louisville: Score 1548.0, NCAA apperances 14, Average ranking 18.1
+26. Team  Kentucky: Score 1430.0, NCAA apperances 27, Average ranking 22.9
+27. Team  LSU: Score 1359.0, NCAA apperances 36, Average ranking 24.5
+28. Team  Nebraska: Score 1335.5, NCAA apperances 24, Average ranking 24.0
+29. Team  South Carolina: Score 1179.5, NCAA apperances 32, Average ranking 24.8
+30. Team  Clemson: Score 929.5, NCAA apperances 19, Average ranking 27.8
+31. Team  Penn St: Score 913.0, NCAA apperances 33, Average ranking 27.3
+32. Team  Missouri: Score 902.0, NCAA apperances 15, Average ranking 22.1
+33. Team  Houston: Score 900.0, NCAA apperances 27, Average ranking 25.0
+34. Team  Purdue: Score 821.5, NCAA apperances 30, Average ranking 26.9
+35. Team  Southern Ill: Score 727.0, NCAA apperances 9, Average ranking 20.6
+36. Team  Notre Dame: Score 595.5, NCAA apperances 25, Average ranking 28.7
+37. Team  Kansas: Score 585.5, NCAA apperances 21, Average ranking 28.9
+38. Team  Arkansas: Score 560.0, NCAA apperances 25, Average ranking 29.2
+39. Team  Florida St: Score 509.0, NCAA apperances 24, Average ranking 30.2
+40. Team  Cincinnati: Score 494.0, NCAA apperances 19, Average ranking 28.1
+41. Team  Virginia Tech: Score 454.5, NCAA apperances 17, Average ranking 27.5
+42. Team  Nevada: Score 454.5, NCAA apperances 11, Average ranking 27.5
+43. Team  Hawaii: Score 410.0, NCAA apperances 16, Average ranking 28.8
+44. Team  BYU: Score 333.5, NCAA apperances 16, Average ranking 31.9
+45. Team  Washington: Score 309.0, NCAA apperances 10, Average ranking 27.0
+46. Team  Villanova: Score 284.5, NCAA apperances 11, Average ranking 28.7
+47. Team  Princeton: Score 266.0, NCAA apperances 16, Average ranking 32.0
+48. Team  Iowa: Score 252.0, NCAA apperances 20, Average ranking 33.0
+49. Team  Maryland: Score 251.0, NCAA apperances 16, Average ranking 32.2
+50. Team  Oregon St: Score 233.5, NCAA apperances 12, Average ranking 31.4
+51. Team  Colorado St: Score 224.5, NCAA apperances 7, Average ranking 29.6
+52. Team  Michigan St: Score 220.0, NCAA apperances 11, Average ranking 28.2
+53. Team  UNC: Score 217.0, NCAA apperances 3, Average ranking 18.7
+54. Team  Duke: Score 183.0, NCAA apperances 10, Average ranking 34.9
+55. Team  Pittsburgh: Score 178.5, NCAA apperances 15, Average ranking 32.5
+56. Team  Pacific: Score 160.0, NCAA apperances 5, Average ranking 25.2
+57. Team  UC Santa Barbara: Score 148.0, NCAA apperances 9, Average ranking 31.0
+58. Team  Rutgers: Score 147.0, NCAA apperances 13, Average ranking 36.9
+59. Team  Columbia: Score 138.0, NCAA apperances 4, Average ranking 22.5
+60. Team  Southern Cal: Score 127.0, NCAA apperances 1, Average ranking 12.0
+61. Team  UNLV: Score 122.5, NCAA apperances 10, Average ranking 34.6
+62. Team  Miami (OH): Score 120.5, NCAA apperances 7, Average ranking 32.4
+63. Team  Denver: Score 115.0, NCAA apperances 6, Average ranking 32.3
+64. Team  George Mason: Score 112.0, NCAA apperances 5, Average ranking 28.6
+65. Team  Brown: Score 110.0, NCAA apperances 6, Average ranking 29.2
+66. Team  Harvard: Score 105.0, NCAA apperances 10, Average ranking 35.4
+67. Team  Rice: Score 97.0, NCAA apperances 7, Average ranking 31.6
+68. Team  Furman: Score 85.0, NCAA apperances 2, Average ranking 18.5
+69. Team  Towson: Score 83.0, NCAA apperances 5, Average ranking 34.0
+70. Team  Yale: Score 82.5, NCAA apperances 9, Average ranking 33.1
+71. Team  Eastern Mich: Score 75.0, NCAA apperances 6, Average ranking 34.8
+72. Team  West Virginia: Score 72.5, NCAA apperances 11, Average ranking 36.9
+73. Team  FGCU: Score 70.5, NCAA apperances 5, Average ranking 35.6
+74. Team  Ohio: Score 68.0, NCAA apperances 4, Average ranking 33.5
+75. Team  San Diego St: Score 66.0, NCAA apperances 9, Average ranking 36.0
+76. Team  Illinois: Score 66.0, NCAA apperances 9, Average ranking 36.8
+77. Team  Fla Atlantic: Score 60.0, NCAA apperances 3, Average ranking 30.0
+78. Team  IUPUI: Score 55.0, NCAA apperances 3, Average ranking 29.3
+79. Team  Georgia Tech: Score 52.0, NCAA apperances 3, Average ranking 30.3
+80. Team  UMBC: Score 50.5, NCAA apperances 3, Average ranking 32.0
+81. Team  Penn: Score 44.5, NCAA apperances 1, Average ranking 20.0
+82. Team  San Jose St: Score 42.0, NCAA apperances 3, Average ranking 29.7
+83. Team  Boston U: Score 42.0, NCAA apperances 3, Average ranking 29.0
+84. Team  Western Ky: Score 41.5, NCAA apperances 3, Average ranking 33.0
+85. Team  Milwaukee: Score 41.0, NCAA apperances 2, Average ranking 29.0
+86. Team  Richmond: Score 39.5, NCAA apperances 5, Average ranking 37.2
+87. Team  Utah: Score 37.5, NCAA apperances 4, Average ranking 36.5
+88. Team  Wyoming: Score 37.0, NCAA apperances 7, Average ranking 38.1
+89. Team  Washington St: Score 36.0, NCAA apperances 5, Average ranking 35.8
+90. Team  Tennesse: Score 35.0, NCAA apperances 1, Average ranking 22.0
+91. Team  Fresno St: Score 32.0, NCAA apperances 6, Average ranking 38.0
+92. Team  American: Score 30.0, NCAA apperances 1, Average ranking 23.0
+93. Team  FIU: Score 30.0, NCAA apperances 3, Average ranking 35.0
+94. Team  UMass: Score 28.0, NCAA apperances 1, Average ranking 27.0
+95. Team  UC Irvine: Score 27.0, NCAA apperances 3, Average ranking 36.0
+96. Team  Illinois St: Score 27.0, NCAA apperances 2, Average ranking 37.0
+97. Team  PennSt: Score 26.0, NCAA apperances 1, Average ranking 29.0
+98. Team  Northern Ariz: Score 22.0, NCAA apperances 1, Average ranking 29.0
+99. Team  Toledo: Score 22.0, NCAA apperances 4, Average ranking 39.8
+100. Team  Gardner-Webb: Score 22.0, NCAA apperances 2, Average ranking 35.5
+101. Team  Massachusetts: Score 20.0, NCAA apperances 2, Average ranking 37.0
+102. Team  New Hampshire: Score 17.0, NCAA apperances 1, Average ranking 27.0
+103. Team  Boise St: Score 17.0, NCAA apperances 3, Average ranking 40.7
+104. Team  Air Force: Score 16.0, NCAA apperances 2, Average ranking 36.5
+105. Team  Buffalo: Score 15.0, NCAA apperances 2, Average ranking 39.0
+106. Team  Akron: Score 15.0, NCAA apperances 3, Average ranking 38.0
+107. Team  New Mexico: Score 14.0, NCAA apperances 3, Average ranking 40.7
+108. Team  Drexel: Score 14.0, NCAA apperances 3, Average ranking 42.7
+109. Team  Northeastern: Score 13.0, NCAA apperances 4, Average ranking 39.5
+110. Team  Utah*: Score 13.0, NCAA apperances 1, Average ranking 30.0
+111. Team  Cal St Northridge: Score 12.0, NCAA apperances 1, Average ranking 36.0
+112. Team  Ball St: Score 11.0, NCAA apperances 1, Average ranking 32.0
+113. Team  Liberty: Score 11.0, NCAA apperances 2, Average ranking 43.5
+114. Team  Long Beach St: Score 10.0, NCAA apperances 3, Average ranking 35.0
+115. Team  Navy: Score 9.0, NCAA apperances 4, Average ranking 38.8
+116. Team  UConn: Score 9.0, NCAA apperances 3, Average ranking 41.3
+117. Team  Houston 9: Score 9.0, NCAA apperances 1, Average ranking 30.0
+118. Team  Old Dominion: Score 7.0, NCAA apperances 2, Average ranking 27.5
+119. Team  Clarion Maryl.5: Score 6.0, NCAA apperances 1, Average ranking 36.0
+120. Team  Vanderbilt: Score 6.0, NCAA apperances 1, Average ranking 35.0
+121. Team  Bowling Green: Score 6.0, NCAA apperances 3, Average ranking 41.0
+122. Team  San Diego: Score 6.0, NCAA apperances 1, Average ranking 38.0
+123. Team  Syracuse: Score 6.0, NCAA apperances 1, Average ranking 36.0
+124. Team  Iowa St: Score 4.0, NCAA apperances 2, Average ranking 35.0
+125. Team  Oakland: Score 4.0, NCAA apperances 3, Average ranking 39.7
+126. Team  Binghamton: Score 4.0, NCAA apperances 1, Average ranking 41.0
+127. Team  Northwestern Notre Dame: Score 4.0, NCAA apperances 1, Average ranking 41.0
+128. Team  Florida International: Score 4.0, NCAA apperances 1, Average ranking 47.0
+129. Team  Notre Dam: Score 4.0, NCAA apperances 1, Average ranking 41.0
+130. Team  Princeton Vanderbilt: Score 3.0, NCAA apperances 1, Average ranking 37.0
+131. Team  TCU: Score 3.0, NCAA apperances 1, Average ranking 36.0
+132. Team  St Bonaventure: Score 2.0, NCAA apperances 1, Average ranking 38.0
+133. Team  George Washington: Score 2.0, NCAA apperances 1, Average ranking 42.0
+134. Team  san Diego St: Score 2.0, NCAA apperances 1, Average ranking 44.0
+
+ _____________________________________________________________ 
+ 
+Men's: 
+1. Team  Texas: Score 16444.0, NCAA apperances 64, Average ranking 7.0
+2. Team  Stanford: Score 16125.0, NCAA apperances 79, Average ranking 6.0
+3. Team  Southern California: Score 12879.5, NCAA apperances 74, Average ranking 7.6
+4. Team  California: Score 12532.0, NCAA apperances 57, Average ranking 7.8
+5. Team  Michigan: Score 11395.0, NCAA apperances 86, Average ranking 6.8
+6. Team  Auburn: Score 10934.0, NCAA apperances 46, Average ranking 8.3
+7. Team  Florida: Score 10478.5, NCAA apperances 59, Average ranking 8.7
+8. Team  Arizona: Score 8455.0, NCAA apperances 46, Average ranking 9.7
+9. Team  Indiana: Score 8424.0, NCAA apperances 69, Average ranking 12.6
+10. Team  Tennessee: Score 7162.5, NCAA apperances 53, Average ranking 11.3
+11. Team  UCLA: Score 5413.5, NCAA apperances 30, Average ranking 5.2
+12. Team  SMU: Score 4744.5, NCAA apperances 61, Average ranking 14.1
+13. Team  Ohio St: Score 4699.0, NCAA apperances 82, Average ranking 11.6
+14. Team  Georgia: Score 4273.5, NCAA apperances 40, Average ranking 14.1
+15. Team  Alabama: Score 4176.0, NCAA apperances 48, Average ranking 15.5
+16. Team  Minnesota: Score 4080.5, NCAA apperances 59, Average ranking 14.2
+17. Team  Arizona St: Score 3388.5, NCAA apperances 46, Average ranking 16.2
+18. Team  NC State: Score 3064.5, NCAA apperances 41, Average ranking 16.1
+19. Team  Miami (FL): Score 2766.5, NCAA apperances 46, Average ranking 17.9
+20. Team  Virginia: Score 2486.5, NCAA apperances 36, Average ranking 18.7
+21. Team  Texas A&M: Score 2076.5, NCAA apperances 38, Average ranking 20.8
+22. Team  Yale: Score 1991.2, NCAA apperances 42, Average ranking 11.1
+23. Team  LSU: Score 1713.5, NCAA apperances 41, Average ranking 22.8
+24. Team  Louisville: Score 1667.5, NCAA apperances 17, Average ranking 17.4
+25. Team  Harvard: Score 1570.0, NCAA apperances 64, Average ranking 20.0
+26. Team  Iowa: Score 1517.5, NCAA apperances 55, Average ranking 18.1
+27. Team  Florida St: Score 1326.0, NCAA apperances 41, Average ranking 22.8
+28. Team  Michigan St: Score 1267.0, NCAA apperances 46, Average ranking 15.5
+29. Team  North Carolina: Score 1254.2, NCAA apperances 57, Average ranking 22.6
+30. Team  Purdue: Score 1239.0, NCAA apperances 47, Average ranking 21.1
+31. Team  Northwestern: Score 1121.0, NCAA apperances 37, Average ranking 17.7
+32. Team  Wisconsin: Score 1104.5, NCAA apperances 55, Average ranking 23.1
+33. Team  South Carolina: Score 1100.5, NCAA apperances 33, Average ranking 24.6
+34. Team  Nebraska: Score 1091.5, NCAA apperances 21, Average ranking 21.0
+35. Team  Missouri: Score 1063.0, NCAA apperances 16, Average ranking 20.9
+36. Team  Washington: Score 1006.0, NCAA apperances 30, Average ranking 19.9
+37. Team  Princeton: Score 1004.0, NCAA apperances 48, Average ranking 18.0
+38. Team  Southern Ill: Score 874.0, NCAA apperances 34, Average ranking 17.8
+39. Team  Kentucky: Score 833.0, NCAA apperances 23, Average ranking 24.5
+40. Team  Long Beach St: Score 694.5, NCAA apperances 15, Average ranking 16.6
+41. Team  Virginia Tech: Score 611.0, NCAA apperances 16, Average ranking 25.8
+42. Team  Penn St: Score 601.5, NCAA apperances 27, Average ranking 27.3
+43. Team  Arkansas: Score 514.0, NCAA apperances 15, Average ranking 23.0
+44. Team  Hawaii: Score 411.0, NCAA apperances 21, Average ranking 28.4
+45. Team  Cincinnati: Score 388.0, NCAA apperances 22, Average ranking 23.6
+46. Team  Iowa St: Score 362.5, NCAA apperances 28, Average ranking 22.2
+47. Team  UNLV: Score 342.0, NCAA apperances 18, Average ranking 27.8
+48. Team  Utah: Score 338.5, NCAA apperances 28, Average ranking 28.3
+49. Team  Kansas: Score 324.0, NCAA apperances 16, Average ranking 28.3
+50. Team  BYU: Score 321.5, NCAA apperances 19, Average ranking 27.2
+51. Team  UC Santa Barbara: Score 318.0, NCAA apperances 22, Average ranking 26.6
+52. Team  Georgia Tech: Score 279.5, NCAA apperances 15, Average ranking 29.4
+53. Team  Duke: Score 271.0, NCAA apperances 13, Average ranking 26.0
+54. Team  Navy: Score 235.5, NCAA apperances 23, Average ranking 24.0
+55. Team  New Mexico: Score 219.0, NCAA apperances 20, Average ranking 28.9
+56. Team  Colorado St: Score 209.0, NCAA apperances 7, Average ranking 19.9
+57. Team  Villanova: Score 203.0, NCAA apperances 14, Average ranking 19.6
+58. Team  Dartmouth: Score 190.0, NCAA apperances 18, Average ranking 18.2
+59. Team  Pittsburgh: Score 189.0, NCAA apperances 22, Average ranking 30.0
+60. Team  Oregon: Score 179.0, NCAA apperances 9, Average ranking 16.4
+61. Team  Pacific: Score 178.0, NCAA apperances 11, Average ranking 19.8
+62. Team  Army West Point: Score 175.0, NCAA apperances 18, Average ranking 16.8
+63. Team  Illinois: Score 174.0, NCAA apperances 22, Average ranking 19.7
+64. Team  UT Arlington: Score 173.0, NCAA apperances 6, Average ranking 19.3
+65. Team  Penn: Score 172.5, NCAA apperances 18, Average ranking 24.9
+66. Team  Cornell: Score 171.0, NCAA apperances 16, Average ranking 24.8
+67. Team  Oklahoma: Score 165.0, NCAA apperances 18, Average ranking 14.9
+68. Team  Syracuse: Score 164.5, NCAA apperances 12, Average ranking 28.2
+69. Team  Wyoming: Score 156.0, NCAA apperances 13, Average ranking 31.2
+70. Team  Columbia: Score 154.0, NCAA apperances 15, Average ranking 22.5
+71. Team  Notre Dame: Score 145.0, NCAA apperances 10, Average ranking 31.0
+72. Team  Denver: Score 136.2, NCAA apperances 13, Average ranking 25.7
+73. Team  West Virginia: Score 131.5, NCAA apperances 10, Average ranking 29.9
+74. Team  Air Force: Score 126.0, NCAA apperances 13, Average ranking 27.8
+75. Team  Miami (OH): Score 113.5, NCAA apperances 13, Average ranking 21.3
+76. Team  Houston: Score 109.0, NCAA apperances 7, Average ranking 19.6
+77. Team  UC Irvine: Score 100.0, NCAA apperances 6, Average ranking 29.0
+78. Team  American: Score 98.0, NCAA apperances 5, Average ranking 28.4
+79. Team  Oakland: Score 83.5, NCAA apperances 6, Average ranking 29.8
+80. Team  Eastern Mich: Score 72.0, NCAA apperances 6, Average ranking 31.5
+81. Team  Fla Atlantic: Score 70.0, NCAA apperances 3, Average ranking 32.0
+82. Team  Clemson: Score 65.0, NCAA apperances 7, Average ranking 31.7
+83. Team  Wesleyan (CT): Score 62.5, NCAA apperances 5, Average ranking 19.4
+84. Team  Maryland: Score 58.0, NCAA apperances 10, Average ranking 31.6
+85. Team  Ohio: Score 57.5, NCAA apperances 8, Average ranking 21.5
+86. Team  Pepperdine: Score 55.5, NCAA apperances 4, Average ranking 24.2
+87. Team  University of Miami: Score 54.0, NCAA apperances 1, Average ranking 19.0
+88. Team  Wayne St (MI): Score 46.0, NCAA apperances 4, Average ranking 9.0
+89. Team  Western Ky: Score 44.0, NCAA apperances 3, Average ranking 28.7
+90. Team  La Salle: Score 38.0, NCAA apperances 6, Average ranking 15.3
+91. Team  Williams: Score 37.0, NCAA apperances 6, Average ranking 9.0
+92. Team  Rutgers: Score 36.2, NCAA apperances 8, Average ranking 13.8
+93. Team  Flordia St: Score 32.5, NCAA apperances 1, Average ranking 23.0
+94. Team  UNC: Score 31.0, NCAA apperances 1, Average ranking 24.0
+95. Team  Towson: Score 30.0, NCAA apperances 4, Average ranking 35.0
+96. Team  Oregon St: Score 29.0, NCAA apperances 3, Average ranking 24.3
+97. Team  UNCW: Score 28.0, NCAA apperances 3, Average ranking 30.7
+98. Team  Central Conn St: Score 27.0, NCAA apperances 2, Average ranking 30.0
+99. Team  Ball St: Score 26.0, NCAA apperances 2, Average ranking 32.0
+100. Team  SUNY Cortland: Score 23.0, NCAA apperances 3, Average ranking 12.7
+101. Team  Grand Canyon: Score 23.0, NCAA apperances 2, Average ranking 33.5
+102. Team  Springfield: Score 22.0, NCAA apperances 4, Average ranking 11.5
+103. Team  George Washington: Score 20.0, NCAA apperances 2, Average ranking 33.0
+104. Team  Cleveland St: Score 19.0, NCAA apperances 2, Average ranking 32.5
+105. Team  Brown: Score 18.0, NCAA apperances 5, Average ranking 16.4
+106. Team  San Jose St: Score 16.0, NCAA apperances 3, Average ranking 17.0
+107. Team  Cal Poly: Score 15.0, NCAA apperances 3, Average ranking 23.3
+108. Team  Lafayette: Score 15.0, NCAA apperances 1, Average ranking 30.0
+109. Team  ULM: Score 15.0, NCAA apperances 1, Average ranking 33.0
+110. Team  Bowling Green: Score 14.0, NCAA apperances 5, Average ranking 18.6
+111. Team  Tulane: Score 14.0, NCAA apperances 2, Average ranking 31.5
+112. Team  Penn St : Score 14.0, NCAA apperances 1, Average ranking 30.0
+113. Team  Bowdoin: Score 13.0, NCAA apperances 4, Average ranking 15.0
+114. Team  Northeastern: Score 12.5, NCAA apperances 1, Average ranking 18.0
+115. Team  Texas Tech: Score 12.0, NCAA apperances 1, Average ranking 22.0
+116. Team  Fresno St: Score 12.0, NCAA apperances 1, Average ranking 22.0
+117. Team  Toledo: Score 12.0, NCAA apperances 1, Average ranking 34.0
+118. Team  Amherst: Score 11.0, NCAA apperances 3, Average ranking 14.7
+119. Team  Missouri St: Score 11.0, NCAA apperances 3, Average ranking 38.0
+120. Team  Occidental: Score 10.0, NCAA apperances 2, Average ranking 8.0
+121. Team  Washington St: Score 10.0, NCAA apperances 3, Average ranking 17.0
+122. Team  William & Mary: Score 10.0, NCAA apperances 2, Average ranking 36.5
+123. Team  George Mason: Score 10.0, NCAA apperances 2, Average ranking 38.0
+124. Team  Chicago: Score 9.0, NCAA apperances 2, Average ranking 8.5
+125. Team  North Central (IL): Score 9.0, NCAA apperances 2, Average ranking 11.0
+126. Team  Massachusetts: Score 9.0, NCAA apperances 2, Average ranking 8.0
+127. Team  9 Washington St: Score 9.0, NCAA apperances 1, Average ranking 27.0
+128. Team  Canisius: Score 8.0, NCAA apperances 1, Average ranking 7.0
+129. Team  Colgate: Score 8.0, NCAA apperances 5, Average ranking 26.8
+130. Team  Bucknell: Score 7.0, NCAA apperances 2, Average ranking 35.0
+131. Team  Oklahoma St: Score 7.0, NCAA apperances 2, Average ranking 27.0
+132. Team  Franklin & Marshall: Score 6.0, NCAA apperances 3, Average ranking 11.7
+133. Team  Rochester (NY): Score 6.0, NCAA apperances 1, Average ranking 8.0
+134. Team  TCU: Score 6.0, NCAA apperances 2, Average ranking 40.0
+135. Team  Old Dominion: Score 6.0, NCAA apperances 1, Average ranking 36.0
+136. Team  Kenyon: Score 5.0, NCAA apperances 3, Average ranking 15.0
+137. Team  San Diego St: Score 5.0, NCAA apperances 1, Average ranking 27.0
+138. Team  Johns Hopkins: Score 5.0, NCAA apperances 1, Average ranking 22.0
+139. Team  Rensselaer: Score 4.0, NCAA apperances 2, Average ranking 13.5
+140. Team  Beloit: Score 4.0, NCAA apperances 1, Average ranking 15.0
+141. Team  Allegheny: Score 4.0, NCAA apperances 2, Average ranking 19.0
+142. Team  Eastern Mich and Michigan St: Score 4.0, NCAA apperances 1, Average ranking 26.0
+143. Team  IUPUI: Score 4.0, NCAA apperances 1, Average ranking 42.0
+144. Team  Drexel: Score 3.0, NCAA apperances 2, Average ranking 37.5
+145. Team  UC Davis: Score 3.0, NCAA apperances 1, Average ranking 39.0
+146. Team  Temple: Score 2.0, NCAA apperances 1, Average ranking 13.0
+147. Team Texas: Score 2.0, NCAA apperances 1, Average ranking 16.0
+148. Team  Knox: Score 2.0, NCAA apperances 2, Average ranking 19.0
+149. Team  Hastings: Score 1.0, NCAA apperances 1, Average ranking 22.0
+150. Team  Lehigh: Score 1.0, NCAA apperances 1, Average ranking 20.0
+151. Team  Kansas St: Score 1.0, NCAA apperances 1, Average ranking 34.0
+152. Team  Kent St: Score 1.0, NCAA apperances 1, Average ranking 34.0
+153. Team  South Fla: Score 1.0, NCAA apperances 1, Average ranking 33.0
+154. Team  CSU Bakersfield: Score 1.0, NCAA apperances 1, Average ranking 48.0
+155. Team  Idaho: Score 0.2, NCAA apperances 1, Average ranking 37.0
+
+ _____________________________________________________________ 
+ 
+Combined: 
+1. Team  Stanford: Score 32814.5, NCAA apperances 119, Average ranking 4.91
+2. Team  Texas: Score 28839.0, NCAA apperances 103, Average ranking 6.47
+3. Team  California: Score 22725.5, NCAA apperances 96, Average ranking 7.25
+4. Team  Florida: Score 20741.5, NCAA apperances 98, Average ranking 8.43
+5. Team  Southern California: Score 20331.5, NCAA apperances 113, Average ranking 8.14
+6. Team  Auburn: Score 18385.5, NCAA apperances 83, Average ranking 9.82
+7. Team  Arizona: Score 17182.5, NCAA apperances 86, Average ranking 9.86
+8. Team  Michigan: Score 16688.5, NCAA apperances 125, Average ranking 8.96
+9. Team  Georgia: Score 14939.0, NCAA apperances 79, Average ranking 10.44
+10. Team  Indiana: Score 11387.0, NCAA apperances 105, Average ranking 14.52
+11. Team  Tennessee: Score 11322.5, NCAA apperances 92, Average ranking 12.82
+12. Team  SMU: Score 9502.0, NCAA apperances 94, Average ranking 14.14
+13. Team  UCLA: Score 9148.5, NCAA apperances 69, Average ranking 11.36
+14. Team  Minnesota: Score 6718.0, NCAA apperances 95, Average ranking 16.09
+15. Team  Ohio St: Score 6704.5, NCAA apperances 117, Average ranking 14.41
+16. Team  Alabama: Score 6666.5, NCAA apperances 84, Average ranking 18.29
+17. Team  Virginia: Score 6600.0, NCAA apperances 75, Average ranking 17.72
+18. Team  Texas A&M: Score 6256.0, NCAA apperances 73, Average ranking 19.6
+19. Team  Arizona St: Score 6029.0, NCAA apperances 84, Average ranking 17.2
+20. Team  NC State: Score 4675.0, NCAA apperances 59, Average ranking 17.56
+21. Team  Miami (FL): Score 4316.0, NCAA apperances 80, Average ranking 19.88
+22. Team  North Carolina: Score 3977.2, NCAA apperances 93, Average ranking 21.06
+23. Team  Wisconsin: Score 3485.0, NCAA apperances 85, Average ranking 21.14
+24. Team  Louisville: Score 3215.5, NCAA apperances 31, Average ranking 17.71
+25. Team  LSU: Score 3072.5, NCAA apperances 77, Average ranking 23.6
+26. Team  Northwestern: Score 2857.5, NCAA apperances 64, Average ranking 19.19
+27. Team  Nebraska: Score 2427.0, NCAA apperances 45, Average ranking 22.6
+28. Team  South Carolina: Score 2280.0, NCAA apperances 65, Average ranking 24.68
+29. Team  Kentucky: Score 2263.0, NCAA apperances 50, Average ranking 23.64
+30. Team  Yale: Score 2073.7, NCAA apperances 51, Average ranking 15.0
+31. Team  Purdue: Score 2060.5, NCAA apperances 77, Average ranking 23.35
+32. Team  Missouri: Score 1965.0, NCAA apperances 31, Average ranking 21.45
+33. Team  Florida St: Score 1835.0, NCAA apperances 65, Average ranking 25.52
+34. Team  Iowa: Score 1769.5, NCAA apperances 75, Average ranking 22.08
+35. Team  Harvard: Score 1675.0, NCAA apperances 74, Average ranking 22.12
+36. Team  Southern Ill: Score 1601.0, NCAA apperances 43, Average ranking 18.37
+37. Team  Penn St: Score 1514.5, NCAA apperances 60, Average ranking 27.32
+38. Team  Michigan St: Score 1487.0, NCAA apperances 57, Average ranking 17.98
+39. Team  Washington: Score 1315.0, NCAA apperances 40, Average ranking 21.65
+40. Team  Princeton: Score 1270.0, NCAA apperances 64, Average ranking 21.48
+41. Team  Arkansas: Score 1074.0, NCAA apperances 40, Average ranking 26.88
+42. Team  Virginia Tech: Score 1065.5, NCAA apperances 33, Average ranking 26.67
+43. Team  Houston: Score 1009.0, NCAA apperances 34, Average ranking 23.85
+44. Team  Clemson: Score 994.5, NCAA apperances 26, Average ranking 28.88
+45. Team  Kansas: Score 909.5, NCAA apperances 37, Average ranking 28.62
+46. Team  Nevada: Score 909.0, NCAA apperances 22, Average ranking 27.45
+47. Team  Cincinnati: Score 882.0, NCAA apperances 41, Average ranking 25.66
+48. Team  Hawaii: Score 821.0, NCAA apperances 37, Average ranking 28.54
+49. Team  Notre Dame: Score 740.5, NCAA apperances 35, Average ranking 29.34
+50. Team  Long Beach St: Score 704.5, NCAA apperances 18, Average ranking 19.67
+51. Team  BYU: Score 655.0, NCAA apperances 35, Average ranking 29.34
+52. Team  Villanova: Score 487.5, NCAA apperances 25, Average ranking 23.64
+53. Team  UC Santa Barbara: Score 466.0, NCAA apperances 31, Average ranking 27.9
+54. Team  UNLV: Score 464.5, NCAA apperances 28, Average ranking 30.25
+55. Team  Duke: Score 454.0, NCAA apperances 23, Average ranking 29.87
+56. Team  Colorado St: Score 433.5, NCAA apperances 14, Average ranking 24.71
+57. Team  Utah: Score 376.0, NCAA apperances 32, Average ranking 29.31
+58. Team  Pittsburgh: Score 367.5, NCAA apperances 37, Average ranking 31.03
+59. Team  Iowa St: Score 366.5, NCAA apperances 30, Average ranking 23.1
+60. Team  Pacific: Score 338.0, NCAA apperances 16, Average ranking 21.5
+61. Team  Georgia Tech: Score 331.5, NCAA apperances 18, Average ranking 29.56
+62. Team  Maryland: Score 309.0, NCAA apperances 26, Average ranking 32.0
+63. Team  Columbia: Score 292.0, NCAA apperances 19, Average ranking 22.53
+64. Team  Oregon St: Score 262.5, NCAA apperances 15, Average ranking 30.0
+65. Team  Southern Cal: Score 254.0, NCAA apperances 2, Average ranking 12.0
+66. Team  Denver: Score 251.2, NCAA apperances 19, Average ranking 27.79
+67. Team  UNC: Score 248.0, NCAA apperances 4, Average ranking 20.0
+68. Team  Navy: Score 244.5, NCAA apperances 27, Average ranking 26.15
+69. Team  Illinois: Score 240.0, NCAA apperances 31, Average ranking 24.65
+70. Team  Miami (OH): Score 234.0, NCAA apperances 20, Average ranking 25.2
+71. Team  New Mexico: Score 233.0, NCAA apperances 23, Average ranking 30.43
+72. Team  Penn: Score 217.0, NCAA apperances 19, Average ranking 24.63
+73. Team  West Virginia: Score 204.0, NCAA apperances 21, Average ranking 33.57
+74. Team  Rice: Score 194.0, NCAA apperances 14, Average ranking 31.57
+75. Team  Wyoming: Score 193.0, NCAA apperances 20, Average ranking 33.6
+76. Team  Dartmouth: Score 190.0, NCAA apperances 18, Average ranking 18.17
+77. Team  Rutgers: Score 183.2, NCAA apperances 21, Average ranking 28.1
+78. Team  Oregon: Score 179.0, NCAA apperances 9, Average ranking 16.44
+79. Team  Army West Point: Score 175.0, NCAA apperances 18, Average ranking 16.78
+80. Team  UT Arlington: Score 173.0, NCAA apperances 6, Average ranking 19.33
+81. Team  Cornell: Score 171.0, NCAA apperances 16, Average ranking 24.81
+82. Team  Syracuse: Score 170.5, NCAA apperances 13, Average ranking 28.85
+83. Team  Furman: Score 170.0, NCAA apperances 4, Average ranking 18.5
+84. Team  Oklahoma: Score 165.0, NCAA apperances 18, Average ranking 14.89
+85. Team  Eastern Mich: Score 147.0, NCAA apperances 12, Average ranking 33.17
+86. Team  Air Force: Score 142.0, NCAA apperances 15, Average ranking 28.93
+87. Team  FGCU: Score 141.0, NCAA apperances 10, Average ranking 35.6
+88. Team  Fla Atlantic: Score 130.0, NCAA apperances 6, Average ranking 31.0
+89. Team  American: Score 128.0, NCAA apperances 6, Average ranking 27.5
+90. Team  Brown: Score 128.0, NCAA apperances 11, Average ranking 23.36
+91. Team  UC Irvine: Score 127.0, NCAA apperances 9, Average ranking 31.33
+92. Team  Ohio: Score 125.5, NCAA apperances 12, Average ranking 25.5
+93. Team  George Mason: Score 122.0, NCAA apperances 7, Average ranking 31.29
+94. Team  Towson: Score 113.0, NCAA apperances 9, Average ranking 34.44
+95. Team  UMBC: Score 101.0, NCAA apperances 6, Average ranking 32.0
+96. Team  Oakland: Score 87.5, NCAA apperances 9, Average ranking 33.11
+97. Team  Western Ky: Score 85.5, NCAA apperances 6, Average ranking 30.83
+98. Team  Boston U: Score 84.0, NCAA apperances 6, Average ranking 29.0
+99. Team  Milwaukee: Score 82.0, NCAA apperances 4, Average ranking 29.0
+100. Team  Richmond: Score 79.0, NCAA apperances 10, Average ranking 37.2
+101. Team  San Diego St: Score 71.0, NCAA apperances 10, Average ranking 35.1
+102. Team  Tennesse: Score 70.0, NCAA apperances 2, Average ranking 22.0
+103. Team  Wesleyan (CT): Score 62.5, NCAA apperances 5, Average ranking 19.4
+104. Team  FIU: Score 60.0, NCAA apperances 6, Average ranking 35.0
+105. Team  IUPUI: Score 59.0, NCAA apperances 4, Average ranking 32.5
+106. Team  San Jose St: Score 58.0, NCAA apperances 6, Average ranking 23.33
+107. Team  UMass: Score 56.0, NCAA apperances 2, Average ranking 27.0
+108. Team  Pepperdine: Score 55.5, NCAA apperances 4, Average ranking 24.25
+109. Team  University of Miami: Score 54.0, NCAA apperances 1, Average ranking 19.0
+110. Team  Illinois St: Score 54.0, NCAA apperances 4, Average ranking 37.0
+111. Team  PennSt: Score 52.0, NCAA apperances 2, Average ranking 29.0
+112. Team  Wayne St (MI): Score 46.0, NCAA apperances 4, Average ranking 9.0
+113. Team  Washington St: Score 46.0, NCAA apperances 8, Average ranking 28.75
+114. Team  Fresno St: Score 44.0, NCAA apperances 7, Average ranking 35.71
+115. Team  Northern Ariz: Score 44.0, NCAA apperances 2, Average ranking 29.0
+116. Team  Gardner-Webb: Score 44.0, NCAA apperances 4, Average ranking 35.5
+117. Team  La Salle: Score 38.0, NCAA apperances 6, Average ranking 15.33
+118. Team  Williams: Score 37.0, NCAA apperances 6, Average ranking 9.0
+119. Team  Ball St: Score 37.0, NCAA apperances 3, Average ranking 32.0
+120. Team  Toledo: Score 34.0, NCAA apperances 5, Average ranking 38.6
+121. Team  New Hampshire: Score 34.0, NCAA apperances 2, Average ranking 27.0
+122. Team  Boise St: Score 34.0, NCAA apperances 6, Average ranking 40.67
+123. Team  Flordia St: Score 32.5, NCAA apperances 1, Average ranking 23.0
+124. Team  Buffalo: Score 30.0, NCAA apperances 4, Average ranking 39.0
+125. Team  Akron: Score 30.0, NCAA apperances 6, Average ranking 38.0
+126. Team  Massachusetts: Score 29.0, NCAA apperances 4, Average ranking 22.5
+127. Team  UNCW: Score 28.0, NCAA apperances 3, Average ranking 30.67
+128. Team  Central Conn St: Score 27.0, NCAA apperances 2, Average ranking 30.0
+129. Team  Utah*: Score 26.0, NCAA apperances 2, Average ranking 30.0
+130. Team  Northeastern: Score 25.5, NCAA apperances 5, Average ranking 35.2
+131. Team  Cal St Northridge: Score 24.0, NCAA apperances 2, Average ranking 36.0
+132. Team  SUNY Cortland: Score 23.0, NCAA apperances 3, Average ranking 12.67
+133. Team  Grand Canyon: Score 23.0, NCAA apperances 2, Average ranking 33.5
+134. Team  Springfield: Score 22.0, NCAA apperances 4, Average ranking 11.5
+135. Team  George Washington: Score 22.0, NCAA apperances 3, Average ranking 36.0
+136. Team  Liberty: Score 22.0, NCAA apperances 4, Average ranking 43.5
+137. Team  Bowling Green: Score 20.0, NCAA apperances 8, Average ranking 27.0
+138. Team  Cleveland St: Score 19.0, NCAA apperances 2, Average ranking 32.5
+139. Team  UConn: Score 18.0, NCAA apperances 6, Average ranking 41.33
+140. Team  Houston 9: Score 18.0, NCAA apperances 2, Average ranking 30.0
+141. Team  Drexel: Score 17.0, NCAA apperances 5, Average ranking 40.6
+142. Team  Cal Poly: Score 15.0, NCAA apperances 3, Average ranking 23.33
+143. Team  Lafayette: Score 15.0, NCAA apperances 1, Average ranking 30.0
+144. Team  ULM: Score 15.0, NCAA apperances 1, Average ranking 33.0
+145. Team  Tulane: Score 14.0, NCAA apperances 2, Average ranking 31.5
+146. Team  Penn St : Score 14.0, NCAA apperances 1, Average ranking 30.0
+147. Team  Bowdoin: Score 13.0, NCAA apperances 4, Average ranking 15.0
+148. Team  Old Dominion: Score 13.0, NCAA apperances 3, Average ranking 30.33
+149. Team  Texas Tech: Score 12.0, NCAA apperances 1, Average ranking 22.0
+150. Team  Clarion Maryl.5: Score 12.0, NCAA apperances 2, Average ranking 36.0
+151. Team  Vanderbilt: Score 12.0, NCAA apperances 2, Average ranking 35.0
+152. Team  San Diego: Score 12.0, NCAA apperances 2, Average ranking 38.0
+153. Team  Amherst: Score 11.0, NCAA apperances 3, Average ranking 14.67
+154. Team  Missouri St: Score 11.0, NCAA apperances 3, Average ranking 38.0
+155. Team  Occidental: Score 10.0, NCAA apperances 2, Average ranking 8.0
+156. Team  William & Mary: Score 10.0, NCAA apperances 2, Average ranking 36.5
+157. Team  Chicago: Score 9.0, NCAA apperances 2, Average ranking 8.5
+158. Team  North Central (IL): Score 9.0, NCAA apperances 2, Average ranking 11.0
+159. Team  9 Washington St: Score 9.0, NCAA apperances 1, Average ranking 27.0
+160. Team  TCU: Score 9.0, NCAA apperances 3, Average ranking 38.67
+161. Team  Canisius: Score 8.0, NCAA apperances 1, Average ranking 7.0
+162. Team  Colgate: Score 8.0, NCAA apperances 5, Average ranking 26.8
+163. Team  Binghamton: Score 8.0, NCAA apperances 2, Average ranking 41.0
+164. Team  Northwestern Notre Dame: Score 8.0, NCAA apperances 2, Average ranking 41.0
+165. Team  Florida International: Score 8.0, NCAA apperances 2, Average ranking 47.0
+166. Team  Notre Dam: Score 8.0, NCAA apperances 2, Average ranking 41.0
+167. Team  Bucknell: Score 7.0, NCAA apperances 2, Average ranking 35.0
+168. Team  Oklahoma St: Score 7.0, NCAA apperances 2, Average ranking 27.0
+169. Team  Franklin & Marshall: Score 6.0, NCAA apperances 3, Average ranking 11.67
+170. Team  Rochester (NY): Score 6.0, NCAA apperances 1, Average ranking 8.0
+171. Team  Princeton Vanderbilt: Score 6.0, NCAA apperances 2, Average ranking 37.0
+172. Team  Kenyon: Score 5.0, NCAA apperances 3, Average ranking 15.0
+173. Team  Johns Hopkins: Score 5.0, NCAA apperances 1, Average ranking 22.0
+174. Team  Rensselaer: Score 4.0, NCAA apperances 2, Average ranking 13.5
+175. Team  Beloit: Score 4.0, NCAA apperances 1, Average ranking 15.0
+176. Team  Allegheny: Score 4.0, NCAA apperances 2, Average ranking 19.0
+177. Team  Eastern Mich and Michigan St: Score 4.0, NCAA apperances 1, Average ranking 26.0
+178. Team  St Bonaventure: Score 4.0, NCAA apperances 2, Average ranking 38.0
+179. Team  san Diego St: Score 4.0, NCAA apperances 2, Average ranking 44.0
+180. Team  UC Davis: Score 3.0, NCAA apperances 1, Average ranking 39.0
+181. Team  Temple: Score 2.0, NCAA apperances 1, Average ranking 13.0
+182. Team Texas: Score 2.0, NCAA apperances 1, Average ranking 16.0
+183. Team  Knox: Score 2.0, NCAA apperances 2, Average ranking 19.0
+184. Team  Hastings: Score 1.0, NCAA apperances 1, Average ranking 22.0
+185. Team  Lehigh: Score 1.0, NCAA apperances 1, Average ranking 20.0
+186. Team  Kansas St: Score 1.0, NCAA apperances 1, Average ranking 34.0
+187. Team  Kent St: Score 1.0, NCAA apperances 1, Average ranking 34.0
+188. Team  South Fla: Score 1.0, NCAA apperances 1, Average ranking 33.0
+189. Team  CSU Bakersfield: Score 1.0, NCAA apperances 1, Average ranking 48.0
+190. Team  Idaho: Score 0.2, NCAA apperances 1, Average ranking 37.0
